@@ -1,8 +1,8 @@
 Package.describe({
   name: 'cinn:collection-helpers',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Helpers for meteor collections',
-  git: '',
+  git: 'https://github.com/cinn-labs/collection-helpers',
   documentation: 'README.md'
 });
 
